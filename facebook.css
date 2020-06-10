@@ -1,0 +1,10 @@
+h1 {
+	background-color: indigo;
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+
+body {
+	background-color: blue;
+}
